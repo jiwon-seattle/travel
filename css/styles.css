@@ -1,0 +1,25 @@
+img {
+  width: 300px;
+  border-radius: 8px;
+}
+
+body {
+  background-color: beige;
+}
+
+.list {
+  font-style: oblique;
+}
+
+h2 {
+  font-size: 80px;
+  color: green;
+}
+
+.unimportant {
+  border: 2px solid green;
+}
+
+.background {
+  background-color: skyblue;
+}
